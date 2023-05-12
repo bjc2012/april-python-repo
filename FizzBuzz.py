@@ -1,3 +1,5 @@
+# Fizzbuzz challenge that is popular in coding interviews.
+
 #1. If input is divisible by 4, the function will show the string "fizz"
 #2. If input is divisible by 7, he function will show the string "buzz"
 #3. If input is divisible by both 4 and 8, the function output will show "fizzbuzz"
